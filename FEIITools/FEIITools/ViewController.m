@@ -13,6 +13,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.title = @"helloWorld";
+    NSLog(@"come on");
     // Do any additional setup after loading the view.
 }
 
